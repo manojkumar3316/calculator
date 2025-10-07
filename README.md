@@ -14,7 +14,7 @@ It supports basic arithmetic operations:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Calculator-Project.git
+   git clone https://github.com/manojkumar3316/Calculator-Project.git
    cd Calculator-Project
    ```
 
