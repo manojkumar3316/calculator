@@ -32,7 +32,6 @@ Enter the second number: 3
 Choose the operation: +  -  *  /  //  %
 Enter operator: //
 Result: 6
-```
 
 ## Technologies Used
 - Python 3
