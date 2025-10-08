@@ -26,13 +26,13 @@ It supports basic arithmetic operations:
 3. Enter two numbers and choose an operator.
 
 ## Example Output
-
+```
 Enter the first number: 20
 Enter the second number: 3
 Choose the operation: +  -  *  /  //  %
 Enter operator: //
 Result: 6
-
+```
 ## Technologies Used
 - Python 3
 - Object-Oriented Programming (OOP)
