@@ -1,4 +1,4 @@
-# 🧮 Python Calculator (OOP Version)
+# Python Calculator
 
 This is a simple **Object-Oriented Calculator** built using Python.  
 It supports basic arithmetic operations:
@@ -10,7 +10,7 @@ It supports basic arithmetic operations:
 - Floor Division (//)  
 - Modulus (%)  
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -25,7 +25,7 @@ It supports basic arithmetic operations:
 
 3. Enter two numbers and choose an operator.
 
-## 🎯 Example Output
+## Example Output
 
 ```
 Enter the first number: 20
@@ -35,6 +35,6 @@ Enter operator: //
 Result: 6
 ```
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python 3
 - Object-Oriented Programming (OOP)
