@@ -27,7 +27,6 @@ It supports basic arithmetic operations:
 
 ## Example Output
 
-```
 Enter the first number: 20
 Enter the second number: 3
 Choose the operation: +  -  *  /  //  %
